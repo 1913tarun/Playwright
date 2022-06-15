@@ -1,0 +1,3 @@
+npx playwright test tests/ClientApp.spec.js  // for single file
+
+npx playwright test --headed
